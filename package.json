@@ -1,0 +1,27 @@
+{
+  "name": "request-as-json",
+  "version": "1.0.0",
+  "description": "request function",
+  "main": "request-as-json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carbonneau/node-workshop-2.git"
+  },
+  "keywords": [
+    "request",
+    "json"
+  ],
+  "author": "jared carbonneau <jared.carbonneau@me.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carbonneau/node-workshop-2/issues"
+  },
+  "homepage": "https://github.com/Carbonneau/node-workshop-2#readme",
+  "dependencies": {
+    "prompt": "^1.0.0",
+    "request": "^2.73.0"
+  }
+}
